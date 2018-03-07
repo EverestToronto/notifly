@@ -1,6 +1,8 @@
 ![alt text](/logo.png?raw=true "Notifly")
 #### Client scheduling for Trainers, Barbers, Massueses, etc.
 
+[See Live Demo](http://www.getnotifly.xyz/)
+
 ### Summary:
 
 Notifly was a MVP product deployed by EverestDigital. Notifly is a platform that allows partners (Personal Trainers, Barbers, Massueses) to manage their schedule, bookings with clients and reminding both partners and their clients of their appointments.
