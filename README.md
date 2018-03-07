@@ -1,6 +1,6 @@
 ![alt text](/logo.png?raw=true "Notifly")
 #### Client scheduling for Trainers, Barbers, Massueses, etc.
-<a href="http://www.getnotifly.xyz/" target="_blank">See Live Demo</a>
+[http://www.getnotifly.xyz/](asdfasfasdf){:target="_blank"}
 
 ### Summary:
 
