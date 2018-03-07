@@ -1,6 +1,4 @@
 ![alt text](/logo.png?raw=true "Notifly")
-
-# Notifly
 #### Client scheduling for Trainers, Barbers, Massueses, etc.
 
 ### Summary:
